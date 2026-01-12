@@ -24,7 +24,7 @@
                                     <li>
                                        <a href="https://www.behance.net/colin_noel" target="_blank">
                                           <i class="fa-brands fa-behance"></i>
-                                          Behance
+                                          Behanceee
                                        </a>
                                     </li>
                                     <li>
